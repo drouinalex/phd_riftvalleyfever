@@ -1,0 +1,296 @@
+Reference;Specie;Infection;n_infection;n_tested_infection;Dissemination_among_infected;n_dissemination_among_infected;n_tested_dissemination_among_infected;Dissemination;n_dissemination;n_tested_dissemination;Transmission_among_infected;n_transmission_among_infected;n_tested_transmission_among_infected;Transmission;n_transmission;n_tested_transmission;Status_of_Mosquitoes_tested_for_transmission;dpe_infection;dpe_infection_cat;dpe_dissemination;dpe_dissemination_cat;dpe_transmission;dpe_transmission_cat;Temperature;Temperature_class;Blood_meal_titer(log10pfu/ml);blood_meal_titer2;blood_meal_titer_class;Viral_strain;Country;Generation;Generation_cat
+Moutailler et al., 2008;Ae. caspius;;;;;;;7.3;5;68;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;France;F0;F0/F1
+Moutailler et al., 2008;Ae. detritus;;;;;;;12.5;1;8;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;France;F0;F0/F1
+Moutailler et al., 2008;Ae. detritus;;;;;;;0;0;2;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;France;F0;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;9.1;1;11;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;France;F0;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;14;15;107;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;France;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;3.9;5;128;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;France;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;2.8;1;35;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;0;0;7;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;14.7;5;34;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;14.7;5;34;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;2.7;3;110;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;3.1;4;130;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;0;0;14;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F0;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;0;0;18;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F0;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;4.7;4;85;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;8.9;7;79;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;5.8;3;52;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F2;F2/F5
+Moutailler et al., 2008;Cx. pipiens;;;;;;;5.9;4;68;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F2;F2/F5
+Moutailler et al., 2008;Cx. pipiens;;;;;;;2.4;1;41;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;2.1;1;48;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Moutailler et al., 2008;Cx. pipiens;;;;;;;30.2;35;116;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Cyprus;Colony;>F5
+Moutailler et al., 2008;Cx. pipiens;;;;;;;14.3;14;98;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Cyprus;Colony;>F5
+Moutailler et al., 2008;Ae. vexans;;;;;;;8.3;2;24;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Germany;Colony;>F5
+Moutailler et al., 2008;Ae. vexans;;;;;;;25;5;20;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Germany;Colony;>F5
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;4;;;;infected;;;;;8;2w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;2;;;;infected;;;;;10;2w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;2;;;;infected;;;;;12;2w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;4;;;;infected;;;;;14;2w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;25;1;4;;;;infected;;;;;16;3w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;33.3;1;3;;;;infected;;;;;18;3w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;16.7;1;6;;;;infected;;;;;20;3w;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;5;;;;infected;;;;;6;1w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;12.5;1;8;;;;infected;;;;;8;2w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;6;;;;infected;;;;;10;2w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;14.3;1;7;;;;infected;;;;;12;2w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;16.7;1;6;;;;infected;;;;;14;2w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;5;;;;infected;;;;;18;3w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;;;;;;;;;;0;0;1;;;;infected;;;;;20;3w;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;77.5;31;40;;;;;;;;;;;;;;1->21;1_to_3w;;;;;27°C;>25°C;9.45 log 10 SMICLD50/ml;9.45 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Gad et al., 1987;Ae. caspius;82.14;46;56;;;;;;;;;;;;;;1->21;1_to_3w;;;;;27°C;>25°C;9.50 log 10 SMICLD50/ml;9.50 log 10 SMICLD50/ml;high;ZH501;Egypt;F1;F0/F1
+Turell et al., 1996;Ae. caspius;100;8;8;37.5;3;8;37.5;3;8;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;5.3;5.3;medium;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Cx. pipiens;31.4;16;51;0;0;16;0;0;51;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;5.3;5.3;medium;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Ae. caspius;100;5;5;80;4;5;80;4;5;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;6;6;medium;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Cx. pipiens;57.9;22;38;9.1;2;22;5.2;2;38;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;6;6;medium;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Ae. caspius;100;15;15;33.3;5;15;33.3;5;15;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;>7;>7;high;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Cx. pipiens;75.6;262;346;13.7;36;262;10.4;36;346;;;;;;;;7->21;1_to_3w;7->21;1_to_3w;;;26°C;>25°C;>7;>7;high;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Ae. caspius;;;;;;;;;;50;1;2;20;1;5;disseminated;;;;;7->21;1_to_3w;26°C;>25°C;>7;>7;high;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Cx. pipiens;;;;;;;;;;77.8;7;9;6.9;7;102;disseminated;;;;;7->21;1_to_3w;26°C;>25°C;>7;>7;high;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Ae. caspius;;;;;;;;;;100;5;5;;;;inoculated;;;;;7->21;1_to_3w;26°C;>25°C;0,3µL * 10^5,5 PFU/ml;2,9 PFU;NA;ZH501, Egypt93;Egypt;F0;F0/F1
+Turell et al., 1996;Cx. pipiens;;;;;;;;;;100;6;6;;;;inoculated;;;;;7->21;1_to_3w;26°C;>25°C;2 log10 PFU;2 PFU;NA;ZH501, Egypt93;Egypt;F0;F0/F1
+Lumley et al., 2018;Cx. pipiens;0;0;10;NA;NA;NA;0;0;10;NA;NA;NA;0;0;10;disseminated;7;1w;7;1w;7;1w;25°C;20-25°C;6;6;medium;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;44.4;8;18;0;0;8;0;0;18;NA;NA;NA;0;0;18;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;6;6;medium;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;33.3;5;15;0;0;5;0;0;15;NA;NA;NA;0;0;15;disseminated;21;3w;21;3w;21;3w;25°C;20-25°C;6;6;medium;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;26.7;4;15;100;4;4;26.7;4;15;NA;NA;NA;7.1;1;14;disseminated;7;1w;7;1w;7;1w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;35.3;6;17;NA;NA;NA;12.5;2;16;50;1;2;6.3;1;16;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;56.3;9;16;NA;NA;NA;38.5;5;13;NA;NA;NA;14.3;2;14;disseminated;21;3w;21;3w;21;3w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;46.7;7;15;100;7;7;46.7;7;15;;;;16.7;2;12;;7;1w;7;1w;7;1w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;26.7;4;15;NA;NA;NA;7.1;1;14;0;0;1;0;0;14;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;40;8;20;NA;NA;NA;29.4;5;17;40;2;5;11.8;2;17;disseminated;21;3w;21;3w;21;3w;25°C;20-25°C;7;7;high;ZH501;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;0;0;10;NA;NA;NA;0;0;10;NA;NA;NA;0;0;10;disseminated;7;1w;7;1w;7;1w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;0;0;15;NA;NA;NA;0;0;15;NA;NA;NA;0;0;15;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;0;0;16;NA;NA;NA;0;0;16;NA;NA;NA;0;0;16;disseminated;21;3w;21;3w;21;3w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;31.3;5;16;80;4;5;25;4;16;NA;NA;NA;13.3;2;15;disseminated;7;1w;7;1w;7;1w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;33.3;5;15;NA;NA;NA;0;0;13;NA;NA;NA;0;0;15;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Cx. pipiens;18.8;3;16;33.3;1;3;6.3;1;16;100;1;1;6.3;1;16;disseminated;21;3w;21;3w;21;3w;25°C;20-25°C;6;6;medium;Lunyo;England;>F100;>F5
+Lumley et al., 2018;Ae. detritus;20;4;20;NA;NA;NA;27.8;5;18;NA;NA;NA;0;0;20;disseminated;7;1w;7;1w;7;1w;20-25°C;20-25°C;6;6;medium;ZH501;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;20;3;15;33.3;1;3;6.7;1;15;100;1;1;6.7;1;15;disseminated;14;2w;14;2w;14;2w;20-25°C;20-25°C;6;6;medium;ZH501;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;88.9;8;9;100;8;8;88.9;8;9;NA;NA;NA;25;2;8;disseminated;7;1w;7;1w;7;1w;25°C;20-25°C;7;7;high;ZH501;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;50;8;16;NA;NA;NA;42.3;6;14;NA;NA;NA;13.3;2;15;disseminated;14;2w;14;2w;14;2w;25°C;20-25°C;7;7;high;ZH501;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;15.6;3;19;NA;NA;NA;11.1;2;18;NA;NA;NA;0;0;19;disseminated;7;1w;7;1w;7;1w;20-25°C;20-25°C;6;6;medium;Lunyo;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;22.7;5;22;20;1;5;4.5;1;22;0;0;1;0;0;22;disseminated;14;2w;14;2w;14;2w;20-25°C;20-25°C;6;6;medium;Lunyo;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;90;9;10;100;9;9;90;9;10;NA;NA;NA;37.5;3;8;disseminated;7;1w;7;1w;7;1w;20°C;20-25°C;7;7;high;Lunyo;England;F0;F0/F1
+Lumley et al., 2018;Ae. detritus;42.9;3;7;NA;NA;NA;0;0;5;NA;NA;NA;0;0;5;disseminated;14;2w;14;2w;14;2w;20°C;20-25°C;7;7;high;Lunyo;England;F0;F0/F1
+Lumley et al., 2018;Ae. caspius;50;3;6;33.3;1;3;16.7;1;6;100;1;1;16.7;1;6;disseminated;10;2w;10;2w;10;2w;25°C;20-25°C;6;6;medium;Lunyo;England;F0;F0/F1
+Turell et al., 2013;Ae. vexans;50;1;2;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;>7,6;>7,6;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;53.8;7;13;;;;;;;;;;;;;;14;2w;;;;;26°C;>25°C;>7,6;>7,6;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;38.5;5;13;;;;;;;;;;;;;;21;3w;;;;;26°C;>25°C;>7,6;>7,6;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;20;1;5;;;;;;;;;;;;;;14;2w;;;;;26°C;>25°C;8.3;8.3;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;46.2;6;13;;;;;;;;;;;;;;21;3w;;;;;26°C;>25°C;8.3;8.3;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;;;;NA;NA;NA;15.4;4;26;;;;;;;;;;;;;;26°C;>25°C;>7,6;>7,6;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;;;;71.4;5;7;27.7;5;18;;;;;;;;;;;;;;26°C;>25°C;8.3;8.3;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;;;;;;;;;;50;1;2;;;;disseminated;;;;;7->21;1_to_3w;26°C;>25°C;>7,6/8.3;>7,6/8.3;high;ZH501;USA;F0;F0/F1
+Turell et al., 2013;Ae. vexans;;;;;;;;;;0;0;1;;;;inoculated;;;;;7->21;1_to_3w;26°C;>25°C;1.5 log10 PFU;1.5 log PFU;;ZH501;USA;F0;F0/F1
+Turell et al., 2008/12;Ae. vexans;10;1;10;0;0;1;0;0;10;;;;;;;;14 ->17;3w;14 ->17;3w;;;26°C;>25°C;4,1 -> 4,6;4,1 -> 4,6;low_to_medium;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;50;1;2;100;1;1;50;1;2;;;;;;;;>19;3w;>19;3w;;;26°C;>25°C;4,1 -> 4,6;4,1 -> 4,6;low_to_medium;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;80;8;10;37.5;3;8;30;3;10;;;;;;;;14 -> 17;3w;14 -> 17;3w;;;26°C;>25°C;8,5 -> 8,6;8,5 -> 8,6;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;93.3;14;15;78.6;11;14;73.3;11;15;;;;;;;;14 -> 17;3w;14 -> 17;3w;;;26°C;>25°C;10,1->10,2;10,1->10,2;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;100;17;17;82.4;14;17;82.4;14;17;;;;;;;;>19;3w;>19;3w;;;26°C;>25°C;10,1->10,2;10,1->10,2;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;;;;;;;;;;100;1;1;25;1;4;disseminated;;;;;7->>19;1_to_3w;26°C;>25°C;8,5->8,6;8,5->8,6;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2008/12;Ae. vexans;;;;;;;;;;33;3;9;23;3;13;disseminated;;;;;7->>19;1_to_3w;26°C;>25°C;10,1->10,2;10,1->10,2;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Ae. vexans;10.5;2;19;0;0;2;0;0;19;;;;0;0;8;;7->21;1_to_3w;7->21;1_to_3w;7->21;1_to_3w;26°C;>25°C;7,3 +/- 0,1 ;7,3 +/- 0,1 ;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Ae. vexans;30;61;204;9.8;6;61;2.9;6;204;;;;2;2;94;;7->21;1_to_3w;7->21;1_to_3w;7->21;1_to_3w;26°C;>25°C;>8,8;>8,8;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Cx. pipiens;52;13;25;15.4;2;13;8;2;25;;;;25;1;4;;7->21;1_to_3w;7->21;1_to_3w;7->21;1_to_3w;26°C;>25°C;>8,8;>8,8;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Ae. vexans;;;;;;;;;;40;2;5;;;;disseminated;;;;;7->21;1_to_3w;26°C;>25°C;>8,8;>8,8;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Cx. pipiens;;;;;;;;;;100;1;1;;;;disseminated;;;;;7->21;1_to_3w;26°C;>25°C;>8,8;>8,8;high;ZH501;USA;F0/F1;F0/F1
+Turell et al., 2010;Ae. vexans;;;;;;;;;;28.6;4;14;;;;inoculated;;;;;7;1w;26°C;>25°C;NA;NA;NA;ZH501;USA;F0/F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;85;34;40;14.7;5;34;12.5;5;40;0;0;5;0;0;40;disseminated;5;1w;5;1w;5;1w;27°C;>25°C;6.7;6.7;medium;SH172805;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;80;24;30;12.5;3;24;10;3;30;33.3;1;3;3.3;1;30;disseminated;10;2w;10;2w;10;2w;27°C;>25°C;6.7;6.7;medium;SH172805;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;71.1;54;76;37;20;54;26.3;20;76;20;4;20;5.3;4;76;disseminated;15;3w;15;3w;15;3w;27°C;>25°C;6.7;6.7;medium;SH172805;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;72.2;13;18;15.4;2;13;11.1;2;18;50;1;2;5.6;1;18;disseminated;20;3w;20;3w;20;3w;27°C;>25°C;6.7;6.7;medium;SH172805;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;36;9;25;0;0;9;0;0;25;NA;NA;NA;0;0;25;disseminated;5;1w;5;1w;5;1w;27°C;>25°C;6.7;6.7;medium;ArD141967;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;32;8;25;25;2;8;8;2;25;0;0;2;0;0;25;disseminated;10;2w;10;2w;10;2w;27°C;>25°C;6.7;6.7;medium;ArD141967;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;50;25;50;16;4;25;8;4;50;0;0;4;0;0;50;disseminated;15;3w;15;3w;15;3w;27°C;>25°C;6.7;6.7;medium;ArD141967;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;30;3;10;33.3;1;3;10;1;10;0;0;1;0;0;10;disseminated;20;3w;20;3w;20;3w;27°C;>25°C;6.7;6.7;medium;ArD141967;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;76.7;23;30;0;0;23;0;0;30;NA;NA;NA;0;0;30;disseminated;5;1w;5;1w;5;1w;27°C;>25°C;7;7;high;AnD133719;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;63.3;19;30;0;0;19;0;0;30;NA;NA;NA;0;0;30;disseminated;10;2w;10;2w;10;2w;27°C;>25°C;7;7;high;AnD133719;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;75;57;76;10.5;6;57;7.9;6;76;0;0;6;0;0;76;disseminated;15;3w;15;3w;15;3w;27°C;>25°C;7;7;high;AnD133719;Senegal;F1;F0/F1
+Ndiaye et al., 2016;Ae. vexans;55.6;5;9;0;0;5;0;0;9;NA;NA;NA;0;0;9;disseminated;20;3w;20;3w;20;3w;27°C;>25°C;7;7;high;AnD133719;Senegal;F1;F0/F1
+Iranpour et al., 2011;Ae. vexans;28.8;15;52;0;0;15;0;0;52;NA;NA;NA;NA;NA;NA;disseminated;>14;3w;>14;3w;>14;3w;25°C;>25°C;7,9 ->9,4 ;7,9 ->9,4 ;high;ZH501;Canada;F0;F0/F1
+Iranpour et al., 2011;Cx. pipiens;88;22;25;18.2;4;22;16;4;25;75;3;4;12;3;25;disseminated;>14;2_to_3w;>14;3w;>14;3w;25°C;>25°C;7,9 ->9,4 ;7,9 ->9,4 ;high;ZH501;USA;Colony;>F5
+Iranpour et al., 2011;Ae. vexans;;;;;;;;;;10;1;10;;;;inoculated_and_infected;>10;2w;;;>10;2w;25°C;>25°C;1,3 log10 PFU;1,3 PFU;NA;ZH501;Canada;F0;F0/F1
+Turell et al., 2008/01;Cx. pipiens;74;37;50;10.8;4;37;8;4;50;;;;;;;;3 -> 10;1_to_2w;3 -> 10;1_to_2w;;;26°C;>25°C;7,0 -> 7,8;7,0 -> 7,8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;85;17;20;52.9;9;17;45;9;20;;;;;;;;11 -> 16;2_to_3w;11 -> 16;2_to_3w;;;26°C;>25°C;7,0 -> 7,8;7,0 -> 7,8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;93.3;14;15;35.7;5;14;33;5;15;;;;;;;;3 -> 10;1_to_2w;3 -> 10;1_to_2w;;;26°C;>25°C;>8;>8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;91.2;31;34;32.3;10;31;29.4;10;34;;;;;;;;11 -> 16;2_to_3w;11 -> 16;2_to_3w;;;26°C;>25°C;>8;>8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;86.7;13;15;53.8;7;13;46.7;7;15;;;;;;;;> 18;3w;> 18;3w;;;26°C;>25°C;>8;>8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;;;;;;;;;;100;8;8;;;;disseminated;;;;;3 -> 18;1_to_3w;26°C;>25°C;>8;>8;high;ZH501;Egypt;F67;>F5
+Turell et al., 2008/01;Cx. pipiens;;;;;;;;;;100;20;20;;;;inoculated;;;;;3 -> 18;1_to_3w;26°C;>25°C;NA;NA;NA;ZH501;Egypt;F67;>F5
+Gargan et al., 1983;Cx. pipiens;67.2;39;58;;;;;;;48;15;31;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;7,2 PFU ingested;9.7;high;ZH501;Egypt;F1;F0/F1
+Gargan et al., 1983;Cx. pipiens;85.7;12;14;;;;;;;14;1;7;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;7,3 PFU ingested;9.8;high;ZH501;Egypt;F2;F2/F5
+Gargan et al., 1983;Cx. pipiens;77.8;63;81;;;;;;;44;16;36;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;7,1 PFU ingested;9.6;high;ZH501;Egypt;F3;F2/F5
+Gargan et al., 1983;Cx. pipiens;70.4;19;27;;;;;;;56;5;9;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;6,2 PFU ingested;8.7;high;ZH501;Egypt;F5;F2/F5
+Gargan et al., 1983;Cx. pipiens;77.8;70;90;;;;;;;25;13;52;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;7,2 PFU ingested;9.7;high;ZH501;Egypt;F8;>F5
+Gargan et al., 1983;Cx. pipiens;93.4;169;181;;;;;;;18;16;91;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;6,9 PFU ingested;9.4;high;ZH501;Egypt;F12;>F5
+Gargan et al., 1983;Cx. pipiens;95.2;99;104;;;;;;;24;12;50;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;6,6 PFU ingested;9.1;high;ZH501;Egypt;F14;>F5
+Gargan et al., 1983;Cx. pipiens;83.9;125;149;;;;;;;21;15;70;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;7,1 PFU ingested;9.6;high;ZH501;Egypt;F16;>F5
+Gargan et al., 1983;Cx. pipiens;82.6;19;23;;;;;;;17;2;12;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;5,4 PFU ingested;7.9;high;ZH501;Egypt;F6;>F5
+Gargan et al., 1983;Cx. pipiens;86.6;84;97;;;;;;;12;6;49;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;5,6 PFU ingested;8.1;high;ZH501;Egypt;F12;>F5
+Gargan et al., 1983;Cx. pipiens;91.9;136;148;;;;;;;27;18;66;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;5,3 PFU ingested;7.8;high;ZH501;Egypt;F14;>F5
+Gargan et al., 1983;Cx. pipiens;51;26;51;;;;;;;5;1;19;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;2,4 PFU ingested;4.9;medium;ZH501;Egypt;F6;>F5
+Gargan et al., 1983;Cx. pipiens;57.4;54;94;;;;;;;17;5;30;;;;infected;7->12;1_to_2w;;;7->12;1_to_2w;25->29°C;>25°C;3,7 PFU ingested;6.2;medium;ZH501;Egypt;F10;>F5
+Amraoui et al., 2012;Cx. pipiens;;;;;;;15.4;2;13;;;;23.1;3;13;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Morocco;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;7;;;;0;0;7;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Morocco;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;14.3;1;7;;;;14.3;1;7;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Morocco;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;11.1;1;9;;;;0;0;9;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;38.1;8;21;;;;28.6;6;21;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;10;;;;0;0;10;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;6.3;1;16;;;;18.8;3;16;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;18;;;;0;0;18;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;6.3;1;16;;;;12.5;2;16;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;29.4;5;17;;;;47.1;8;17;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;7.1;1;14;;;;0;0;14;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;10;2;20;;;;10;2;20;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;16;;;;0;0;16;;;;14;2w;14;2w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;11.1;2;18;;;;16.7;3;18;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Morocco;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;7;;;;0;0;7;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Morocco;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;25;4;16;;;;6.3;1;16;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;20;1;5;;;;40;2;5;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;33.3;2;6;;;;50;3;6;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;5;;;;0;0;5;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;21.4;3;14;;;;28.6;4;14;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;10;2;20;;;;15;3;20;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;9.1;1;11;;;;0;0;11;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;0;0;7;;;;14.3;1;7;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Algeria;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;9.1;1;11;;;;27.3;3;11;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;36;9;25;;;;40;10;25;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;5;1;20;;;;25;5;20;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Amraoui et al., 2012;Cx. pipiens;;;;;;;12.5;3;24;;;;16.7;4;24;;;;21;3w;21;3w;27->29°C;>25°C;8.5;8.5;high;clone13;Tunisia;F1;F0/F1
+Turell et al., 1984;Cx. pipiens;77.9;662;850;;;;33;70;212;;;;16.9;71;419;;7->15;1_to_2w;7->15;1_to_3w;7->15;1_to_3w;25->27°C;>25°C;4,2->7,2 PFU/mosquito;6.7->9.7;medium_to_high;ZH501;Egypt;F8 -> F19;>F5
+Meegan et al., 1980;Cx. pipiens;80;4;5;;;;;;;;;;40;2;5;;7;1w;;;7;1w;26->27°C;>25°C;10^6.5 MICLD50/mL;10^6.5 MICLD50/mL;medium;NA;Egypt;F4;F2/F5
+Meegan et al., 1980;Cx. pipiens;100;5;5;;;;;;;;;;40;2;5;;9;2w;;;9;2w;26->27°C;>25°C;10^6.5 MICLD50/mL;10^6.5 MICLD50/mL;medium;NA;Egypt;F4;F2/F5
+Meegan et al., 1980;Cx. pipiens;80;4;5;;;;;;;;;;40;2;5;;12;2w;;;12;2w;26->27°C;>25°C;10^6.5 MICLD50/mL;10^6.5 MICLD50/mL;medium;NA;Egypt;F4;F2/F5
+Turell et al, 1985;Cx. pipiens;37.7;23;61;23.5;4;17;6.6;4;61;10;1;10;;;;infected_feeding;;;10 -> 28;2_to_4w;14->21;2_to_3w;13°C;<20°C;4.8;4.8;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;75;60;80;27.3;12;44;15;12;80;13;5;39;;;;infected_feeding;;;5 -> 28;1_to_4w;5->21;1_to_3w;26°C;>25°C;4.8;4.8;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;91.1;41;45;19.5;8;41;17.8;8;45;21;3;14;;;;infected_feeding;;;3-> 28;1_to_4w;4->21;1_to_3w;33°C;>25°C;4.8;4.8;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;34.3;12;35;16.7;1;6;2.9;1;35;;;;;;;;;;15-> 28;3_to_4w;;;13°C;<20°C;5.7;5.7;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;96.9;31;32;18.5;5;27;15.6;5;32;60;3;5;;;;infected_feeding;;;6 -> 28;1_to_4w;15->21;2_to_3w;13-26°C;13 then 26°C;5.7;5.7;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;80.8;21;26;11.8;2;17;7.7;2;26;;;;;;;;;;4 -> 28;1_to_4w;;;13-26°C;13 then 26°C;5.7;5.7;medium;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;88.9;24;27;9.1;1;11;3.7;1;27;25;1;4;;;;infected_feeding;;;5 -> 28;1_to_4w;5->21;2_to_3w;26°C;>25°C;5.7;5.7;medium;ZH501;Egypt;F35, F45, F46;>F5
+Brustolin et al., 2017;Cx. pipiens;14.3;1;7;0;0;1;0;0;7;;;;;;;;14;2w;14;2w;;;26°C (day) / 22°C (night);26(d)/22(n);5,7 log10 TCID50/mL;5.5;medium;strain 56/74;Spain;Colony;>F5
+Brustolin et al., 2017;Cx. pipiens;20;1;5;0;0;3;0;0;5;;;;;;;;14;2w;14;2w;;;26°C (day) / 22°C (night);26(d)/22(n);7 log10 TCID50/mL;6.8;medium;strain 56/74;Spain;Colony;>F5
+Brustolin et al., 2017;Cx. pipiens;12.7;8;63;0;0;8;0;0;63;;;;;;;;14;2w;14;2w;;;26°C (day) / 22°C (night);26(d)/22(n);5,7 log10 TCID50/mL;5.5;medium;strain 56/74;Spain;Colony;>F5
+Brustolin et al., 2017;Cx. pipiens;7.7;3;39;66.6;2;3;5.1;2;39;;;;;;;;14;2w;14;2w;;;26°C (day) / 22°C (night);26(d)/22(n);7 log10 TCID50/mL;6.8;medium;strain 56/74;Spain;Colony;>F5
+Brustolin et al., 2017;Cx. pipiens;29;18;62;33.3;6;18;9.7;6;62;50;3;6;4.8;3;62;disseminated;14;2w;14;2w;14;2w;26°C (day) / 22°C (night);26(d)/22(n);7,5 log10 TCID50/mL;7.3;high;strain 56/74;Spain;Colony;>F5
+McIntosh et al., 1973;Cx. theileri;100;25;25;;;;;;;50;1;2;;;;infected_feeding;20 -> 22;3_to_4w;;;19;3w;26°C;>25°C;6.5 log10 SMICLD50 / 0.02mL;8.2 log10 SMICLD50/mL;high;unknown (wild type);South Africa;F12;>F5
+McIntosh et al., 1973;Cx. theileri;95.5;42;44;;;;;;;45.5;5;11;;;;infected_feeding;19 -> 22;3_to_4w;;;18;3w;26°C;>25°C;8.0 log10 SMICLD50 / 0.02mL;9.7 log10 SMICLD50/mL;high;unknown (wild type);South Africa;F12;>F5
+McIntosh et al., 1973;Cx. theileri;91.7;22;24;;;;;;;71.4;5;7;;;;infected_feeding;21 -> 22;4w;;;20;3w;26°C;>25°C;8.5 log10 SMICLD50 / 0.02mL;10.2 log10 SMICLD50/mL;high;unknown (wild type);South Africa;F12;>F5
+McIntosh et al., 1980;Cx. theileri;98.7;77;78;;;;;;;;;;;;;;12 -> 34;2_to_>4w;;;;;25-26°C;>25°C;8;8;high;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;75.7;53;70;;;;;;;;;;;;;;12 -> 34;2_to_>4w;;;;;25-26°C;>25°C;6.4;6.4;medium;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;68.2;30;44;;;;;;;;;;;;;;12 -> 34;2_to_>4w;;;;;25-26°C;>25°C;5.3;5.3;medium;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;68.2;30;44;;;;;;;;;;;;;;12 -> 34;2_to_>4w;;;;;25-26°C;>25°C;5.3;5.3;medium;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;53.3;16;30;;;;;;;;;;;;;;12 -> 34;2_to_>4w;;;;;25-26°C;>25°C;4;4;low;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;;;;;;;;;;26;6;23;;;;infected_feeding;;;;;11->13;2w;25-26°C;>25°C;8;8;high;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;;;;;;;;;;13;2;15;;;;infected_feeding;;;;;19;3w;25-26°C;>25°C;6.4;6.4;medium;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;;;;;;;;;;70;7;10;;;;infected_feeding;;;;;20;3w;25-26°C;>25°C;5.3;5.3;medium;AN 1830;South Africa;F0, F3, F11;NA
+McIntosh et al., 1980;Cx. theileri;;;;;;;;;;16;3;19;;;;infected_feeding;;;;;21;3w;25-26°C;>25°C;5.3;5.3;medium;AN 1830;South Africa;F0, F3, F11;NA
+Zakhia et al., 2018;Cx. pipiens;44.4;8;18;0;0;8;0;0;18;NA;NA;NA;0;0;18;disseminated;3;1w;3;1w;3;1w;27-29°C;>25°C;7.1;7.1;high;clone13;Lebanon;F1;F0/F1
+Zakhia et al., 2018;Cx. pipiens;55;11;20;0;0;11;0;0;20;NA;NA;NA;0;0;20;disseminated;7;1w;7;1w;7;1w;27-29°C;>25°C;7.1;7.1;high;clone13;Lebanon;F1;F0/F1
+Zakhia et al., 2018;Cx. pipiens;65;13;20;0;0;13;0;0;20;NA;NA;NA;0;0;20;disseminated;14;2w;14;2w;14;2w;27-29°C;>25°C;7.1;7.1;high;clone13;Lebanon;F1;F0/F1
+Zakhia et al., 2018;Cx. pipiens;64.3;9;14;33.3;3;9;21.4;3;14;33.3;1;3;7.1;1;14;disseminated;19;3w;19;3w;19;3w;27-29°C;>25°C;7.1;7.1;high;clone13;Lebanon;F1;F0/F1
+Vloet et al., 2017;Cx. pipiens;30;12;40;;;;;;;;;;7.5;3;40;;14;2w;;;14;2w;28°C;>25°C;5.3;5.3;medium;clone13;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;63.6;28;44;;;;;;;;;;13.6;6;44;;14;2w;;;14;2w;28°C;>25°C;7.3;7.3;high;clone13;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;73.5;25;34;;;;;;;;;;23.5;8;34;;14;2w;;;14;2w;28°C;>25°C;9.3;9.3;high;clone13;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;60;24;40;;;;;;;;;;17.5;7;40;;14;2w;;;14;2w;28°C;>25°C;9.3;9.3;high;clone13;Netherlands;F0;F0/F1
+Vloet et al., 2017;Cx. pipiens;24.4;11;45;;;;;;;;;;2.2;1;45;;14;2w;;;14;2w;28°C;>25°C;8;8;high;clone13;Netherlands;F0;F0/F1
+Vloet et al., 2017;Cx. pipiens;60;12;20;;;;;;;;;;25;5;20;;14;2w;;;14;2w;28°C;>25°C;8;8;high;strain 35/74;Netherlands;F0;F0/F1
+Vloet et al., 2017;Cx. pipiens;0;0;14;;;;;;;;;;0;0;14;;14;2w;;;14;2w;20°C then 28°C;20 then 28;3;3;low;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;91.3;21;23;;;;;;;;;;30.4;7;23;;13;2w;;;13;2w;20°C then 28°C;20 then 28;6.4;6.4;medium;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;18.2;2;11;;;;;;;;;;0;0;11;;13;2w;;;13;2w;20°C then 28°C;20 then 28;5.7;5.7;medium;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;18.2;2;11;;;;;;;;;;0;0;11;;12;2w;;;12;2w;20°C then 28°C;20 then 28;4.5;4.5;medium;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;0;0;4;;;;;;;;;;0;0;4;;14;2w;;;14;2w;20°C then 28°C;20 then 28;2.5;2.5;low;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;85.7;6;7;;;;;;;;;;28.6;2;7;;13;2w;;;13;2w;20°C then 28°C;20 then 28;5.2;5.2;medium;strain 35/74;Netherlands;Colony;>F5
+Vloet et al., 2017;Cx. pipiens;11.1;1;9;;;;;;;;;;11.1;1;9;;13;2w;;;13;2w;20°C then 28°C;20 then 28;4.2;4.2;low;strain 35/74;Netherlands;Colony;>F5
+Talavera et al., 2018;Cx. pipiens;68.2;15;22;33.3;5;15;15.6;5;22;80;4;5;18.2;4;22;disseminated;14;2w;14;2w;14;2w;26°C (day) / 22°C (night);26(d)/22(n);7.23 log10TCID50/ml;7.06;high;strain 56/74;Spain;Colony;>F5
+Birnberg et al., 2019;Ae. vexans;6.3;1;16;100;1;1;6.3;1;16;0;0;1;0;0;16;disseminated;14;2w;14;2w;14;2w;22-26°C;22/26°C;7.5 log10 TCID50/ml;7.3;high;strain 56/74;Spain;F0;F0/F1
+Birnberg et al., 2019;Ae. vexans;23.5;8;34;25;2;8;5.9;2;34;100;2;2;5.8;2;34;disseminated;14;2w;14;2w;14;2w;22-26°C;22/26°C;7.5 log10 TCID50/ml;7.3;high;strain 56/74;Spain;F0;F0/F1
+Birnberg et al., 2019;Ae. vexans;33.3;5;15;60;3;5;20;3;15;100;3;3;20;3;15;disseminated;14;2w;14;2w;14;2w;22-26°C;22/26°C;7.5 log10 TCID50/ml;7.3;high;strain 56/74;Spain;F0;F0/F1
+Birnberg et al., 2019;Ae. vexans;;;;;;;;;;82.2;37;45;;;;inoculated;;;;;7;1w;22-26°C;22/26°C;5.67 log10 TCID50;5.67 log10 TCID50;NA;strain 56/74;Spain;F0;F0/F1
+Turell et al., 1988;Cx. pipiens;71.4;125;175;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,5 log10 PFU ingested/mosquito;6;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;67.6;127;188;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;4,5 log10 PFU ingested/mosquito;7;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;83.1;54;65;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,3 log10 PFU ingested/mosquito;5.8;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;52.3;34;65;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,3 log10 PFU ingested/mosquito;5.8;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;82.2;37;45;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,6 log10 PFU ingested/mosquito;6.1;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;88.9;16;18;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;4,7 log10 PFU ingested/mosquito;7.2;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;60.9;28;46;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;4,8 log10 PFU ingested/mosquito;7.3;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;87.5;28;32;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;4,9 log10 PFU ingested/mosquito;7.4;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;70.7;29;41;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,1 log10 PFU ingested/mosquito;7.6;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;61.1;22;36;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,3 log10 PFU ingested/mosquito;7.8;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;70;28;40;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,4 log10 PFU ingested/mosquito;7.9;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;100;19;19;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;6,4 log10 PFU ingested/mosquito;8;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;34.6;28;81;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,0 log10 PFU ingested/mosquito;5.5;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;2.3;1;44;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,3 log10 PFU ingested/mosquito;5.8;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;35.3;12;34;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;3,1 log10 PFU ingested/mosquito;5.6;medium;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;55;22;40;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;4,7 log10 PFU ingested/mosquito;7.2;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;75.5;74;98;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,6 log10 PFU ingested/mosquito;8.1;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;53.1;17;32;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,2 log10 PFU ingested/mosquito;7.7;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;77.4;41;53;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,3 log10 PFU ingested/mosquito;7.8;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;86.3;101;117;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,3 log10 PFU ingested/mosquito;7.8;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;53.8;14;26;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;5,4 log10 PFU ingested/mosquito;7.9;high;ZH501;Egypt;F73-F105;>F5
+Turell et al., 1988;Cx. pipiens;85.7;6;7;;;;;;;;;;;;;;7;1w;;;;;26°C;>25°C;6,9 log10 PFU ingested/mosquito;9.4;high;ZH501;Egypt;F73-F105;>F5
+Faran et al., 1988;Cx. pipiens;100;68;68;4.4;3;68;4.4;3;68;;;;;;;;1;1w;1;1w;1;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;97.5;39;40;25.6;10;39;25;10;40;;;;;;;;2;1w;2;1w;2;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;90.5;38;42;18.4;7;38;16.7;7;42;;;;;;;;3;1w;3;1w;3;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;95.6;65;68;7.7;5;65;7.4;5;68;;;;;;;;4;1w;4;1w;4;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;90;18;20;38.9;7;18;35;7;20;;;;;;;;5;1w;5;1w;5;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;93.3;14;15;28.6;4;14;26.7;4;15;;;;;;;;6;1w;6;1w;6;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;97.2;35;36;22.9;8;35;22.2;8;36;100;4;4;36.4;4;11;disseminated;7;1w;7;1w;7;1w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;96;24;25;41.7;10;24;40;10;25;80;8;10;32;8;25;disseminated;8;2w;8;2w;8;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;90.9;10;11;60;6;10;54.5;6;11;83.3;5;6;45.5;5;11;disseminated;9;2w;9;2w;9;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;96;24;25;41.7;10;24;40;10;25;100;10;10;40;10;25;disseminated;10;2w;10;2w;10;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;100;27;27;25.9;7;27;25.9;7;27;100;7;7;25.9;7;27;disseminated;11;2w;11;2w;11;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;93.8;15;16;20;3;15;18.8;3;16;100;3;3;18.8;3;16;disseminated;12;2w;12;2w;12;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;100;3;3;66.7;2;3;66.7;2;3;100;2;2;66.7;2;3;disseminated;14;2w;14;2w;14;2w;25-27°C;>25°C;4,4 -> 5,7 log10 PFU ingested/mosquito;6,9 to 8,2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;;;;;;;6;6;100;;;;;;;;;;0.5;1w;;;25-27°C;>25°C;6,7 log10 PFU ingested/mosquito;9.2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;;;;;;;9;9;100;;;;;;;;;;1;1w;;;25-27°C;>25°C;6,7 log10 PFU ingested/mosquito;9.2;high;ZH501;Egypt;F48-F64;>F5
+Faran et al., 1988;Cx. pipiens;;;;;;;22;22;100;;;;;;;;;;2;1w;;;25-27°C;>25°C;6,7 log10 PFU ingested/mosquito;9.2;high;ZH501;Egypt;F48-F64;>F5
+Moutailler et al., 2010;Ae. vexans;;;;;;;29.3;54;184;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Germany;Colony;>F5
+Moutailler et al., 2010;Ae. vexans;;;;;;;24.7;61;247;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;clone13;Germany;Colony;>F5
+Moutailler et al., 2010;Ae. vexans;;;;;;;29;133;459;;;;;;;;;;14;2w;;;28°C;>25°C;8.5;8.5;high;ZH548;Germany;Colony;>F5
+Turell et al., 1991;Cx. pipiens;;;;;;;;;;100;9;9;;;;inoculated;7;1w;7;1w;7;1w;26°C;>25°C;1 PFU;1 PFU;NA;RVF MP-12;Egypt;F52-F119;>F5
+Turell et al., 1991;Cx. pipiens;;;;;;;;;;100;6;6;;;;inoculated;7;1w;7;1w;7;1w;26°C;>25°C;1 PFU;1 PFU;NA;T1;Egypt;F52-F119;>F5
+Turell et al., 1991;Cx. pipiens;;;;;;;;;;100;7;7;;;;inoculated;7;1w;7;1w;7;1w;26°C;>25°C;1 PFU;1 PFU;NA;ZH501;Egypt;F52-F119;>F5
+Turell et al., 1991;Cx. pipiens;41.3;26;63;15.4;4;26;6.4;4;63;100;2;2;3.3;2;60;disseminated;7;1w;7;1w;7;1w;26°C;>25°C;10^4,1 PFU ingested;6.6;medium;RVF MP-12;Egypt;F52-F119;>F5
+Turell et al., 1991;Cx. pipiens;39.7;23;58;4.3;1;23;1.7;1;58;NA;NA;NA;0;0;53;disseminated;7;1w;7;1w;7;1w;26°C;>25°C;10^4,1 PFU ingested;6.6;medium;ZH501;Egypt;F52-F119;>F5
+Turell et al., 1991;Cx. pipiens;27.7;13;47;0;0;13;0;0;47;NA;NA;NA;0;0;47;disseminated;7;1w;7;1w;7;1w;26°C;>25°C;10^2 PFU ingested;4.5;medium;T1;Egypt;F52-F119;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;80;28;35;;;;inoculated;;;;;10->28;2_to_4w;13°C;<20°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;92.3;36;39;;;;inoculated;;;;;6->28;1_to_4w;15°C;<20°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;100;13;13;;;;inoculated;;;;;3->28;1_to_4w;13-26°C;13 then 26°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;100;8;8;;;;inoculated;;;;;2->28;1_to_4w;20°C;20-25°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;100;37;37;;;;inoculated;;;;;2->28;1_to_4w;13-26°C;13 then 26°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al, 1985;Cx. pipiens;;;;;;;;;;100;20;20;;;;inoculated;;;;;1->28;1_to_4w;26°C;>25°C;2 log10PFU;2 log10PFU;NA;ZH501;Egypt;F35, F45, F46;>F5
+Turell et al., 2014;Cx. pipiens;80;8;10;25;2;8;20;2;10;;;;;;;;7;1w;7;1w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F>180;>F5
+Turell et al., 2014;Cx. pipiens;0;0;5;NA;NA;NA;0;0;5;;;;;;;;7;1w;7;1w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F18;>F5
+Turell et al., 2014;Cx. pipiens;90;18;20;55.6;10;18;50;10;20;;;;;;;;14;2w;14;2w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F>180;>F5
+Turell et al., 2014;Cx. pipiens;50;8;16;25;2;8;12.5;2;16;;;;;;;;14;2w;14;2w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F18;>F5
+Turell et al., 2014;Cx. pipiens;78.6;11;14;54.5;6;11;42.9;6;14;;;;;;;;21 or 28;3_to_4w;21 or 28;3_to_4w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F>180;>F5
+Turell et al., 2014;Cx. pipiens;66.7;6;9;16.7;1;6;11.1;1;9;;;;;;;;21 or 28;3_to_4w;21 or 28;3_to_4w;;;26°C;>25°C;7.5;7.5;high;ZH501;USA;F18;>F5
+Turell et al., 2014;Cx. pipiens;85;34;40;14.7;5;34;12.5;5;40;;;;;;;;7;1w;7;1w;;;26°C;>25°C;>9;>9;high;ZH501;USA;F>180;>F5
+Turell et al., 2014;Cx. pipiens;75;6;8;0;0;6;0;0;8;;;;;;;;7;1w;7;1w;;;26°C;>25°C;>9;>9;high;ZH501;USA;F18;>F5
+Turell et al., 2014;Cx. pipiens;90.7;39;43;25.6;10;39;23.3;10;43;;;;;;;;14;2w;14;2w;;;26°C;>25°C;>9;>9;high;ZH501;USA;F>180;>F5
+Turell et al., 2014;Cx. pipiens;77.8;7;9;42.9;3;7;33.3;3;9;;;;;;;;14;2w;14;2w;;;26°C;>25°C;>9;>9;high;ZH501;USA;F18;>F5
+Turell et al., 2014;Cx. pipiens;82;41;50;36.6;15;41;30;15;50;;;;;;;;21 or 28;3_to_4w;21 or 28;3_to_4w;;;26°C;>25°C;>9;>9;high;ZH501;USA;F>180;>F5
+Patrican et al., 1989;Cx. pipiens;83.1;123;148;21.1;26;123;17.6;26;148;;;;;;;;7;1w;7;1w;;;25-27°C;>25°C;5.5 log10 PFU ingested;8;high;ZH501;Egypt;F97-110;>F5
+Patrican et al., 1989;Cx. pipiens;63.6;7;11;85.7;6;7;54.5;6;11;;;;;;;;7;1w;7;1w;;;25-27°C;>25°C;5.5 log10 PFU ingested;8.2;high;ZH501;Egypt;F97-110;>F5
+Gad et al., 1989;Cx. pipiens;85;17;20;;;;;;;35.3;6;17;30;6;20;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;9.4 log10 SMICLD50/mL;9.4 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;90;27;30;;;;;;;18.5;5;27;16.7;5;30;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;10.4 log10 SMICLD50/mL;10.4 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;94.4;17;18;;;;;;;5.9;1;17;5.6;1;18;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;9.6 log10 SMICLD50/mL;9.6 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;87.5;14;16;;;;;;;7.1;1;14;6.3;1;16;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;9.8 log10 SMICLD50/mL;9.8 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;100;13;13;;;;;;;23.1;3;13;23.1;3;13;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;10.5 log10 SMICLD50/mL;10.5 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;100;4;4;;;;;;;0;0;4;0;0;4;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;9.7 log10 SMICLD50/mL;9.7 log10 SMICLD50/mL;high;ZH501;Egypt;F0;F0/F1
+Gad et al., 1989;Cx. pipiens;88.5;23;26;;;;;;;8.7;2;23;7.7;2;26;infected;9 -> 21;2_to_3w;;;;;25-29°C;>25°C;9.5 log10 SMICLD50/mL;9.5 log10 SMICLD50/mL;high;ZH501;Egypt;F1;F0/F1
+Romoser et al., 1992;Cx. pipiens;81.8;112;137;45.5;51;112;37.2;51;137;;;;;;;;2-> 21;1_to_3w;2-> 21;1_to_3w;;;26°C;>25°C;6.9 log10 PFU ingested;9.4;high;ZH501;Egypt;NA;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;25;2;8;;;;inoculated;;;;;1;1w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;8;8;;;;inoculated;;;;;2;1w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;4;4;;;;inoculated;;;;;3;1w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;24;24;;;;inoculated;;;;;4;1w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;40;40;;;;inoculated;;;;;6 -> 13;1_to_2w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;8;8;;;;inoculated;;;;;14 -> 20;3w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;9;9;;;;inoculated;;;;;21 -> 27;4w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Turell et al., 1987;Cx. pipiens;;;;;;;;;;100;7;7;;;;inoculated;;;;;>28;>4w;26°C;>25°C;2 log10 PFU;2 log10 PFU;NA;ZH501, Dak ArB  1976;Egypt;F44-72;>F5
+Faran et al., 1987;Cx. pipiens;;;;;;;56.6;47;83;89.4;42;47;50.6;42;83;disseminated;;;8 -> 9;2w;8 -> 9;2w;26°C;>25°C;5.6 to 6.9 log10 pfu ingested;8.1 to 9.4;high;ZH501;Egypt;F51-F75;>F5
+Faran et al., 1987;Cx. pipiens;;;;;;;25.8;24;93;87.5;21;24;22.6;21;93;disseminated;;;7 -> 8;2w;7 -> 8;2w;26°C;>25°C;5.6 to 6.9 log10 pfu ingested;8.1 to 9.4;high;ZH501;Egypt;F51-F75;>F5
+Faran et al., 1987;Cx. pipiens;;;;;;;50;29;58;65.5;19;29;32.8;19;58;disseminated;;;7 -> 8;2w;7 -> 8;2w;26°C;>25°C;5.6 to 6.9 log10 pfu ingested;8.1 to 9.4;high;ZH501;Egypt;F51-F75;>F5
+Niklasson et al., 1985;Cx. pipiens;;;;;;;;;;;;;20.9;42;201;;;;;;7 -> 12;2w;25->29°C;>25°C;NA;NA;NA;ZH501;Egypt;NA;NA
+Hartman et al., 2021;Ae. vexans;42.3;22;52;13.6;3;22;5.8;3;52;33.3;1;3;1.9;1;52;disseminated;14;2w;14;2w;14;2w;26°C;>25°C;2.1x10^6 to 7.8x10^6 ;6.3 to 6.9;medium;Kenya-128B-15;USA;F0;F0/F1
